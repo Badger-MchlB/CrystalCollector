@@ -1,0 +1,24 @@
+Body {
+    background-image: url(../images/background.jpg)
+}
+.title {
+    color: white;
+}
+.rules {
+    color:white;
+}
+p {
+    color:white;
+}
+.targetScore {
+    color:white;
+}
+.yourScore {
+    color:white;
+}
+#targetsscore {
+    color:white;
+}
+#yourscore {
+    color:white;
+}
