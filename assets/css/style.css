@@ -22,3 +22,15 @@ p {
 #yourscore {
     color:white;
 }
+.numberWin {
+    color:white;
+}
+.numberLoss {
+    color:white;
+}
+#numberWins {
+    color:white;
+}
+#numberLosses {
+    color: white;
+}

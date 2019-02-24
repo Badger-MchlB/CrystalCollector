@@ -1,5 +1,0 @@
-1.  Create the layout for the game in html
-2.  Format the styling with css/bootstrap
-3.  Create the functions for running the game in javascript
-4.  Assign said functions to the image buttons so that clicking the crystal will run the function
-5.  Double-check for Syntax errors
