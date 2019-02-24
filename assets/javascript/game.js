@@ -3,7 +3,7 @@ $(document).ready(function() {
   crystalClick();
 
 var targetScore = Math.floor(Math.random() * 102 + 19);
-$("#numberToGet").text(targetScore);
+
 
 var yourScore = 0;
 var wins = 0;
@@ -20,6 +20,8 @@ $("#numberLosses").text(losses);
 function reset() {
   targetScore = Math.floor(Math.random() * 102 + 19);
   $("#targetScore").text(targetScore);
+  yourScore = 0;
+  $("#yourScore").text(yourScore);
 }
   var crystalValues = {
     ruby: Math.floor(Math.random() * 12 + 1),
